@@ -1,2 +1,0 @@
-# LocalSonar
-LocalSonarMaven
